@@ -35,7 +35,7 @@ Posts
 	id:integer             [present]
 	user_id:integer        [present]
 	target_url:string      [present]
-	url_description:string [present]
+	description:string [present]
 
 	created_at:datetime
 	updated_at:datetime
